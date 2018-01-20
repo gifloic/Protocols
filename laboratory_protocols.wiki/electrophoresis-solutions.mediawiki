@@ -1,0 +1,201 @@
+==DNA Electrophoresis==
+====5X DNA Sample Buffer====
+50 mM Tris-HCl pH 8.0, 5 mM EDTA, 25% [vol/vol] glycerol, 0.1% [wt/vol] bromophenol blue, 0.1% [wt/vol] xylene cyanol FF, 0.1% [wt/vol] Orange G
+
+To make 100 mL, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 5 mL || Tris-HCl pH 8.0
+|-
+| 1 mL || 0.5 M EDTA pH 8.0
+|-
+| 25 mL || glycerol
+|-
+| 100 mg || bromophenol blue (FW = 669.96 g/mol)
+|-
+| 100 mg || Xylene Cyanol FF (FW = 538.61 g/mol)
+|-
+| 100 mg || Orange G (FW = 452.37 g/mol)
+|-
+| colspan="2"| [http://en.wikipedia.org/wiki/Quantum_satis ''q.s.''] to 100 mL with water.
+|-
+|}
+*When weighing out the three dyes, take care not to add too much.  An abundance of dye in the sample buffer can obscure bands on a gel that migrate at the same molecular weight.
+
+
+====50X TAE====
+2 M Tris, 1 M acetic acid, 50 mM EDTA, pH 7.6
+
+To make 1 L, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 242 g || Tris base (FW = 121.14 g/mol)
+|-
+| colspan="2"| bring volume up to ≈ 600 mL with water
+|-
+| 57.1 mL || glacial acetic acid
+|-
+| 100 mL || 0.5 M EDTA pH 8.0
+|-
+| colspan="2"| ''q.s.'' to 1 L with water.
+|-
+|}
+*Do not attempt to adjust the pH as this will affect the conductivity of the solution and cause problems when running your gel.
+*Dilute 20 mL into a total volume of 1 L to make the 1X working solution, which consists of 40 mM Tris, 20 mM acetic acid, 1 mM EDTA, pH 7.6.
+
+
+==Protein Electrophoresis==
+===Standard SDS-PAGE===
+For sodium dodecyl sulfate (SDS) polyacrylamide gel electrophoresis (PAGE), using gels like the [http://www.bio-rad.com/en-us/product/mini-protean-tgx-precast-gels TGX precast gels] from BioRad.
+
+====2X SDS-PAGE Sample Buffer====
+Also known as "Laemmli Sample Buffer"
+
+62.5 mM Tris-HCl pH 6.8, 2% [wt/vol] SDS, 25% [vol/vol] glycerol, 0.01% [wt/vol] bromophenol blue, 5% [vol/vol] β-mercaptoethanol (added fresh)
+
+To make 100 mL, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 6.25 mL || 1 M Tris-HCl pH 6.8
+|-
+| 2 g || SDS (FW = 288.38)
+|-
+| 25 mL || glycerol
+|-
+| 10 mg || bromophenol blue (FW = 669.96 g/mol)
+|-
+| colspan="2"| ''q.s.'' to 100 mL with water.
+|-
+|}
+*Add 50 μL of β-mercaptoethanol to 950 μL of 2X SDS-PAGE Sample Buffer before use.
+*Alternatively, add 50 μL of 1 M dithiothreitol (DTT) to 950 μL of 2X SDS-PAGE Sample Buffer before use, for a final concentration of 50 mM.
+**DTT can be used up to 100 mM if necessary.
+
+
+====10X SDS-PAGE Running Buffer====
+250 mM Tris, 1.92 M Glycine, 1% [wt/vol] SDS, pH 8.3
+
+To make 1 L, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 30.3 g || Tris base (FW = 121.14 g/mol)
+|-
+| 144.1 g || Glycine (FW = 75.07 g/mol)
+|-
+| 10 g || SDS (FW = 288.38)
+|-
+| colspan="2"| ''q.s.'' to 1 L with water.
+|-
+|}
+*The pH should be 8.1 – 8.5.  Do not attempt to adjust the pH as this will affect the conductivity of the solution and cause problems when running your gel.
+*Dilute 100 mL into a total volume of 1 L to make the 1X working solution, which consists of 25 mM Tris, 192 mM glycine, 0.1% [wt/vol] SDS, pH 8.3
+
+
+===Tris-Tricine SDS-PAGE for low molecular weight proteins===
+These buffers are to be used with [http://www.bio-rad.com/en-us/product/mini-protean-tris-tricine-precast-gels Tris-Tricine] gels.
+
+====2X Tris-Tricine Sample Buffer====
+200 mM Tris-HCl pH 6.8, 2% [wt/vol] SDS, 40% [vol/vol] glycerol, 0.04% Coomassie Brilliant Blue G-250, 2% [vol/vol] β-mercaptoethanol (added fresh)
+
+To make 100 mL, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 20 mL || 1 M Tris-HCl pH 6.8
+|-
+| 2 g || SDS (FW = 288.38)
+|-
+| 40 mL || glycerol
+|-
+| 40 mg || Coomassie Brilliant Blue G-250 (FW = 854.02 g/mol)
+|-
+| colspan="2"| ''q.s.'' to 100 mL with water.
+|-
+|}
+*Add 20 μL of β-mercaptoethanol to 980 μL of 2X Tris-Tricine Sample Buffer before use.
+*Alternatively, add 50 μL of 1 M DTT to 950 μL of 2X Tris-Tricine Sample Buffer before use, for a final concentration of 50 mM.
+**DTT can be used up to 125 mM if necessary.
+
+
+====10X Tris-Tricine Running Buffer====
+1 M Tris, 1 M Tricine, 1% [wt/vol] SDS, pH 8.3
+
+To make 1 L, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 121.1 g || Tris base (FW = 121.14 g/mol)
+|-
+| 179.2 g || Tricine FW = 179.17 g/mol)
+|-
+| 10 g || SDS (FW = 288.38)
+|-
+| colspan="2"| ''q.s.'' to 1 L with water.
+|-
+|}
+*The pH should be 8.1 – 8.5.  Do not attempt to adjust the pH as this will affect the conductivity of the solution and cause problems when running your gel.
+*Dilute 100 mL into a total volume of 1 L to make the 1X working solution, which consists of 100 mM Tris, 100 mM Tricine, 0.1% [wt/vol] SDS, pH 8.3
+
+
+==Western Blotting==
+====10X Transfer Buffer====
+Also known as "10X Towbin Buffer"
+
+250 mM Tris, 1.92 M Glycine, pH 8.3
+
+To make 1 L, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 30.3 g || Tris base (FW = 121.14 g/mol)
+|-
+| 144.1 g || Glycine (FW = 75.07 g/mol)
+|-
+| colspan="2"| ''q.s.'' to 1 L with water.
+|-
+|}
+*The pH should be 8.1 – 8.5.  Do not attempt to adjust the pH as this will affect the conductivity of the solution and cause problems during your transfer.
+*See [[#1X Transfer Buffer|1X Transfer Buffer]] for instructions on how make the 1X working solution.
+
+
+====1X Transfer Buffer====
+Also known as "Towbin Buffer"
+
+25 mM Tris, 192 mM glycine, 20% [vol/vol] methanol, pH 8.3
+
+To make 1 L, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 100 mL || [[#10X Towbin buffer|10X Towbin buffer]]
+|-
+| colspan="2"| bring volume up to ≈ 600 mL with water
+|-
+| 200 mL || methanol
+|-
+| colspan="2"| ''q.s.'' to 1 L with water.
+|-
+|}
+*Methanol will cause the 10X Towbin buffer to precipitate if added to it directly.
+*The pH should be 8.1 – 8.5.  Do not attempt to adjust the pH as this will affect the conductivity of the solution and cause problems during your transfer.
+*Store this solution at 4°C so it can be used with wet transfers if necessary.

@@ -1,0 +1,118 @@
+===Ampicillin===
+100 mg/mL in H<sub>2</sub>O
+
+To make 50 mL, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 5 g || Ampicillin sodium salt (FW = 371.39 g/mol)
+|-
+| colspan="2"| [http://en.wikipedia.org/wiki/Quantum_satis ''q.s.''] to 50 mL with water and filter sterilize.
+|-
+|}
+*Aliquot 1 mL into sterile microcentrifuge tubes and store at -20°C
+*Use ampicillin at a minimum of 50 μg/mL in ''Escherichia coli'' cultures.  I will often use ampicillin at 100 μg/mL, and 150 μg/mL is the maximum that ''E. coli'' can generally handle.
+*The presence of ampicillin in media is indicated by a single black line.
+*Ampicillin is abbreviated as "AMP" 
+
+
+===Carbenicillin===
+50 mg/mL in H<sub>2</sub>O
+
+To make 50 mL, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 2.5 g || Carbenicillin disodium salt (FW = 422.36 g/mol)
+|-
+| colspan="2"| ''q.s.'' to 50 mL with water and filter sterilize
+|-
+|}
+*Aliquot 1 mL into sterile microcentrifuge tubes and store at -20°C
+*Carbenicillin is commonly used at 50 μg/mL in ''E. coli'' cultures.
+*The presence of carbenicillin in media is indicated by two black lines.
+*Carbenicillin is abbreviated as "CARB"
+
+
+===Kanamycin===
+25 mg/mL in H<sub>2</sub>O
+
+To make 100 mL, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 2.5 g || Kanamycin sulfate (FW = 582.58 g/mol)
+|-
+| colspan="2"| ''q.s.'' to 100 mL with water and filter sterilize
+|-
+|}
+*Store at 4°C (it doesn't hurt, but there's no need to store this at -20°C)
+*The presence of kanamycin is indicated by a single red line.
+*Kanamycin is abbreviated as "KAN"
+*Kanamycin should be used at 30 μg/mL in media without added phosphate, like [[Media#Lysogeny Broth (LB)|LB]].
+*Kanamycin should be used 100 μg/mL in media with added phosphate, like [[Media#MDA-5052|MDA-5052]]
+*Kanamycin should not be used with media containing more than 50 mM phosphate, like [[Media#Terrific Broth (TB)|Terrific Broth]].
+
+
+===Chloramphenicol===
+34 mg/mL in ethanol
+
+To make 50 mL, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 1.7 g || Chloramphenicol (FW = 323.13 g/mol)
+|-
+| colspan="2"| ''q.s.'' to 50 mL with ethanol
+|-
+|}
+*Store in a 50 mL conical tube at -20°C
+*Chloramphenicol is commonly used at 34 μg/mL in ''E. coli'' cultures
+*The presence of chloramphenicol in media is indicated by a single green line
+*Chloramphenicol is abbreviated as "CHLOR"
+
+
+===Tetracycline===
+5 mg/mL in ethanol
+
+To make 50 mL, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 250 mg || Tetracycline (FW = 444.43 g/mol)
+|-
+| colspan="2"| ''q.s.'' to 50 mL with ethanol
+|-
+|}
+*Store in a 50 mL conical tube at -20°C
+*Tetracycline is commonly used at 12.5 μg/mL in ''E. coli'' cultures
+*The presence of tetracycline in media is indicated by a single blue line
+*Tetracycline is abbreviated as "TET"
+
+
+Alternatively, if you have tetracycline hydrochloride, make a 10 mg/mL stock in H<sub>2</sub>O
+
+To make 50 mL, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 0.5 g || Tetracycline-HCl (FW = 480.90  g/mol)
+|-
+| colspan="2"| ''q.s.'' to 50 mL with water and filter sterilize.
+|-
+|}
+*Aliquot 1 mL into sterile microcentrifuge tubes and store at -20°C
+*Tetracycline-HCl is commonly used at 11.5 μg/mL in ''E. coli'' cultures
+*The abbreviation and color indicator are the same for tetracycline and tetracycline-HCl

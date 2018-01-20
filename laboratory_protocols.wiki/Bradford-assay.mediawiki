@@ -1,0 +1,30 @@
+==Introduction==
+Bradford assay is used to determine the concentration in your protein solution. This protocol is optimized for speed and ease of use, at the sacrifice of some accuracy.  A protocol designed to obtain a maximally accurate measurement is available from [http://www.bio-rad.com/webroot/web/pdf/lsr/literature/LIT33.pdf bio-rad].  If you require a precise measurement of the [protein], I recommend using the [https://www.thermofisher.com/order/catalog/product/Q33211 qubit] instead.
+
+
+==Assay==
+# Add 980 μL of [[#1× Bradford reagent|1× Bradford reagent]] to a 1.5 mL cuvette
+# Add 20 μL of sample protein to cuvette
+#* don't forget to prepare a blank sample by combining 20 μL buffer with 980 μL of the 1× Bradford reagent
+# Cap cuvette with a small piece of parafilm and invert ~8-10 times to mix
+# Incubate at room temp for 5 min
+# Measure the light absorbance at 595 nm
+#* [protein] = 1.031 × A<sub>595</sub> ﹣ 0.033
+#* this assay has a linear range of 0.2 ~ 1.2 mg/mL.
+
+
+==Solutions==
+====1× Bradford reagent====
+To make 50 mL, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  solution
+|-
+| 10 mL || [http://www.bio-rad.com/en-ch/product/bradford-protein-assay Bio-Rad Protein Assay], which is 5×
+|-
+| colspan="2"| ''q.s.'' to 50 mL with H<sub>2</sub>O
+|-
+|}
+*prepare in a 50 mL conical tube
+*wrap with aluminum foil to protect from light and store at 4 °C for up to 1 week

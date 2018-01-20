@@ -1,0 +1,27 @@
+==Introduction==
+Based on [http://www.ncbi.nlm.nih.gov/pubmed/15915565 Studier's] auto-induction method.  Useful for heterologous expression from T7-based plasmids.  Needs to be used with a [http://ecoliwiki.net/colipedia/index.php/lambda_DE3 DE3 locked-lysogen] strain like [http://www.lifetechnologies.com/order/catalog/product/C601003 BL21*(DE3)]. 
+
+==Protocol==
+===Transform into the expression strain===
+Once the sequence of the expression construct has been verified, transform purified plasmid DNA into your expression strain of choice.  If using a plasmid carrying [[Antibiotic stock solutions#Ampicillin|ampicillin]]/[[Antibiotic stock solutions#Carbenicillin|carbenicillin]] resistance, use the [[1 minute transformation]].  If using a plasmid carrying [[Antibiotic stock solutions#Kanamycin|kanamycin]] resistance, a [http://tools.lifetechnologies.com/content/sfs/manuals/oneshottop10_chemcomp_man.pdf heat shock transformation] may be necessary.  Plate the cells onto [[Media#MDAG-11 agar|MDAG-11 agar]] supplemented with 100 μg/mL of the appropriate antibiotic (use either CARB or KAN at this concentration).
+<!-- *[[Media#LB agar|LB agar]] is probably fine to use here if your protein is not toxic or stressful to the cells. However, use of fully defined media to prepare expression strains can result in a higher and more consistent yield.  You can use kanamycin at 30 μg/mL with LB agar. -->
+
+===Prepare starter cultures===
+Inoculate a 50 mL culture of [[Media#MDAG-135|MDAG-135]] in a 250 mL baffled Erlenmeyer flask, supplemented with 100 μg/mL antibiotic, using either a single colony from an agar plate, or by using a scrape from a -80°C bacterial stock.  Incubate the culture for ≤ 16 hr at 37°C with shaking at ≅ 225 RPM.
+*If you inoculate the starter culture using a pipette tip, do not eject the tip into the culture tube, as this is a common way to introduce contamination.
+<!-- *Complex media like [[Media#TBM|TBM]] or [[Media#Lysogeny Broth (LB)|LB]] may acceptable to substitute here if your protein is not toxic or stressful to the cells. However, use of fully defined media to prepare expression strains can result in a higher and more consistent yield.  You can use kanamycin at 30 μg/mL with LB, but do not use [[Media#Terrific Broth (TB)|TB]] when kanamycin selection is required (the high phosphate concentration in TB confers kanamycin resistance to ''E. coli''). -->
+
+===Prepare expression media===
+For each construct, prepare [[Media#TBM-5052|TBM-5052]], supplemented with 100 μg/mL antibiotic, in a baffled Erlenmeyer flask. As a general rule of thumb, the volume of media used in a flask should be ≅ 20 — 25 % of the flask's total volume in order to achieve sufficient aeration to maintain aerobic growth conditions.  I recommend using 0.5 L of media in a 2 L flask.
+*Do not use the proprietary [http://www.mpbio.com/product.php?pid=113046032 Terrific Broth II]
+*Autoclaving media will result in caramelization, which removes nutrients and may produce bacteriostatic/bactericidal compounds.  To avoid this, prepare TBM-5052 without autoclaving any component, then filter sterilize the media and transfer to a baffled Erlenmeyer flask.  This is also helpful for preparing large batches of media to distribute across many flasks.
+*If your protein has solubility issues, use [[Media#MDA-5052|MDA-5052]] instead
+<!-- *It is not recommended to use more than 0.8 L of media in a 2 L baffled flask, as you will see a substantial decrease in yield at volumes above this. -->
+
+===Inoculate autoinduction culture===
+Dilute the overnight culture 100-fold to inoculate (i.e. use 5 mL of overnight culture to inoculate an 0.5 L expression culture).  Incubate this culture at the desired expression temperature with shaking at ≅ 225 RPM for ≈ 6 – 24 hours (shorter times for higher temperatures, longer times for lower temperatures.
+*optional: for proteins requiring cold induction temperatures (≅ 18°C), incubate the culture for ≅ 2 hr at 37°C following inoculation to allow rapid growth, then reduce to the desired expression temperature for an overnight incubation.
+*highly recommended option: add [http://www.sigmaaldrich.com/catalog/product/sigma/a6457 Antifoam Y-30 Emulsion] to 0.003% [wt/vol].  The stock solution is 30% [wt/vol], so treat Antifoam Y-30 Emulsion as if it were a 10,000× concentrate.  For example, add 50 μL of Antifoam Y-30 Emulsion to a 0.5 L expression culture (use a wide-bore pipette tip as the emulsion is highly viscous).
+
+===Final notes===
+Harvest cells and proceed with lysis and protein purification as you would with standard IPTG induction

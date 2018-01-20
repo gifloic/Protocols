@@ -1,0 +1,64 @@
+==Introduction==
+This protocol is adapted from the "Calcium/Manganese-Based (CCMB) Transformation for MC1061 Derived Strains" protocol originally published by [http://www.ncbi.nlm.nih.gov/pubmed/1943786 Hanahan ''et al''], and delivers an ultra-high competency per aliquot of cells.  Competent cells prepared by this method can be used with the 1 minute transformation protocol, or a traditional [http://tools.lifetechnologies.com/content/sfs/manuals/oneshottop10_chemcomp_man.pdf heat shock transformation ] protocol.
+
+
+==Preparing CCMB chemically competent cells==
+
+====Prepare starter cultures====
+Inoculate two 5 mL cultures using LB (or your favorite rich media, it’s not important at this step) using either single colonies from an agar plate, or by using scrapes from a -80°C bacterial stock.  Incubate the culture overnight (≤ 16 hr) at 37°C with shaking at ≈ 225 RPM.
+*If you inoculate the starter culture using a pipette tip, do not eject the tip into the culture tube, as this is a good way to introduce contamination.
+*If your strain requires antibiotics for maintenance (such as XL10-Gold, Rosetta, or Origami strains), don't forget to add them to your media prior to inoculation.
+
+
+====Inoculate growth media====
+The next morning, use the two starter cultures to inoculate two 0.5 L cultures of rich media (such as TBM), each in a 2 L baffled Erlenmeyer flask.  This should be a 1:100 dilution.  Incubate this culture at 37°C with shaking at ≈ 225 RPM.
+*Plan ahead and prepare your media beforehand.
+*If your strain requires antibiotics for maintenance (such as XL10-Gold, Rosetta or Origami strains), don't forget to add them to your media prior to inoculation.
+
+
+====Harvest cells====
+Monitor the growth of the culture by measuring the optical density (OD) with a 600 nm wavelength and a 10 mm light path.  When the culture reaches mid-log phase growth, typically around OD<sub>600</sub> = 0.4 – 0.5, transfer the culture to a sterile 1 L centrifuge bottle and pellet the bacteria from the media by centrifugation for 15 min at 3,000 RCF at 4°C.
+*Plan ahead and autoclave a 1 L centrifuge bottle beforehand; make sure to wrap the bottle and lid separately when autoclaving.
+*Most bacterial strains will take ≈ 2 – 2½ hr to reach the appropriate OD<sub>600</sub>.  Rosetta and Rosetta-gami strains (these produce additional tRNAs for ''E. coli'' rare codons) will take two to three times as long.
+*With some spectrophotometers, it can be important to dilute your culture 1:10 with water in order obtain an accurate OD<sub>600</sub> measurement.
+
+
+====Wash cells with CCMB====
+Pour off the media from the bacterial pellet, add 100 mL of CCMB, and gently re-suspend at 4°C by swirling, stirring with a stripette, or gentle pipetting up and down with a stripettor.  Avoid vortexing.  Incubate the re-suspended cells for 30 min on ice at 4°C.  Then, centrifuge the cells again for 15 min at 3,000 RCF at 4°C to re-pellet the bacteria.
+*Store the CCMB solution at 4°C so it’s ready for use whenever you need it.
+*After removing the cells from the refrigerated centrifuge the first time, perform all remaining steps to prepare the cells in the cold room and keep the cells on ice whenever possible.  Try to minimize any shearing forces (especially during re-suspension) that could potentially disrupt the bacteria, as CCMB will make them fragile.
+*You can incubate the cells in CCMB at this step for longer than 30 min if necessary, however the competency decreases as this incubation time is extended.
+
+
+====Flash-freeze the bacteria====
+Pour off the supernatant, add 16 mL of fresh CCMB, and gently re-suspend the bacterial pellet as before at 4°C.  Distribute 50 μL of bacteria per aliquot into thin walled PCR tubes, and flash freeze by plunging into liquid nitrogen.  Store the frozen cells at -80°C.
+*Use extreme caution when taking liquid nitrogen into unventilated spaces, such as a cold room
+*To speed up this process, use a multi-channel pipettor and transfer the re-suspended bacteria into a sterile reservoir. 
+*For strip tubes, hold the strip with a pair of scissors (chopsticks also work well) and swirl the strip in the liquid nitrogen as you plunge it in until it stops bubbling/fizzing.  Rapid freezing will increase the transformation competency of the cells.
+
+
+==Recipes== 
+
+====Calcium/manganese-based (CCMB)====
+10 mM CH<sub>3</sub>COOK, 80 mM CaCl<sub>2</sub>, 20 mM MnCl<sub>2</sub>,10 mM MgCl<sub>2</sub>, 10% [vol/vol] glycerol
+
+To make 1 L, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 0.98 g || CH<sub>3</sub>COOK (FW = 98.14 g/mol)
+|-
+| 11.76 g || CaCl<sub>2</sub>·2H<sub>2</sub>O (FW = 147.01 g/mol)
+|-
+| 3.96 g || MnCl<sub>2</sub>·4H<sub>2</sub>O (FW = 197.91 g/mol)
+|-
+| 2.03 g || MgCl<sub>2</sub>·6H<sub>2</sub>O (FW = 203.30 g/mol)
+|-
+| 100 mL || glycerol
+|-
+| colspan="2"| ''q.s.'' to 1 L with water
+|-
+|}
+Filter sterilize (do not autoclave) and store at 4°C.

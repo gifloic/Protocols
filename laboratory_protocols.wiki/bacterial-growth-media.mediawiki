@@ -1,0 +1,893 @@
+==Standard media for cloning==
+====Lysogeny Broth ([http://www.ncbi.nlm.nih.gov/pmc/articles/PMC321500/ LB])====
+1% [wt/vol] tryptone, 0.5% [wt/vol] yeast extract, 1% [wt/vol] NaCl
+
+To make 1 L, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 10 g || tryptone
+|-
+| 5 g || yeast extract
+|-
+| 10 g || NaCl (FW = 58.44 g/mol)
+|-
+| colspan="2"| ''q.s.'' to 1 L with water and filter sterilize or autoclave.
+|-
+|}
+*The pH should be ≈ 6.8 – 7.2, adjust with NaOH or HCl if necessary before autoclaving
+
+
+====LB agar====
+1% [wt/vol] tryptone, 0.5% [wt/vol] yeast extract, 1% [wt/vol] NaCl, 1.5% [wt/vol] agar
+
+To make 500 mL, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 5 g || tryptone
+|-
+| 2.5 g || yeast extract
+|-
+| 5 g || NaCl (FW = 58.44 g/mol)
+|-
+| 7.5 g || agar
+|-
+| 500 mL || water
+|-
+| colspan="2"| autoclave
+|-
+|}
+*Combine dry chemicals in a 2 L non-baffled erlenmeyer flask and add 500 mL of water.  The agar will not dissolve until autoclaved, and don't forget to add a stir bar before autoclaving.  If you try to autoclave a larger volume, the pressure can shoot the foil from the top of the flask, and the liquid media will certainly boil over and out of the flask.  After taking the media out of the autoclave, place the flask on a magnetic stir plate and stir very slowly, being careful not to introduce bubbles.  Once the media has cooled to ≈ 50°C, add appropriate antibiotics and pour the media into petri dishes.
+*This recipe should yield about 15 – 20 plates.
+
+
+Here is an alternative method for quick preparation of LB agar that doesn't over-caramelize the media.
+To make 500 mL, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 250 mL || [[#2× LB|2× LB]]
+|-
+| 250 mL || [[#2× Agar|2× Agar]]
+|-
+|}
+*Microwave the 2× Agar until fully melted, then combine with the 2× LB. Once the media has cooled to ≈ 50°C, add appropriate antibiotics and pour the media into petri dishes.
+
+
+=====2× LB=====
+2% [wt/vol] tryptone, 1% [wt/vol] yeast extract, 2% [wt/vol] NaCl
+
+To make 250 mL, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 5 g || tryptone
+|-
+| 2.5 g || yeast extract
+|-
+| 5 g || NaCl (FW = 58.44 g/mol)
+|-
+| colspan="2"| ''q.s.'' to 250 mL with water and filter sterilize or autoclave.
+|-
+|}
+
+
+=====2× Agar=====
+3% [wt/vol] agar
+
+To make 250 mL, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 7.5 g || agar
+|-
+| colspan="2"| ''q.s.'' to 250 mL with water and autoclave.
+|-
+|}
+
+
+
+====Super optimal broth with catabolite repression (SOC)====
+2% [wt/vol] tryptone, 0.5% [wt/vol] yeast extract, 10 mM NaCl, 2.5 mM KCl, 10 mM MgCl<sub>2</sub>, 10 mM MgSO<sub>4</sub>, 20 mM glucose
+
+To make ≈ 1 L, combine the following:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 1 L || [[#Super optimal broth without magnesium (SOB–Mg)| SOB–Mg]]
+|-
+| 10 mL || [[#1M MgCl2|1 M MgCl<sub>2</sub>]]
+|-
+| 10 mL || [[#1 M MgSO4|1 M MgSO<sub>4</sub>]]
+|-
+| 9 mL || [[#40% wt/vol D-glucose|40% [wt/vol] D-glucose]]
+|-
+|}
+*SOC media is made by adding magnesium and glucose to SOB–Mg media.  Combine the components of this recipe after they have cooled to room temperature.
+*Do not autoclave the SOB–Mg with the magnesium and glucose.  Otherwise, the magnesium will form an insoluble salt with phosphate contained in the yeast extract, and the glucose will caramelize, making the sugar less accessible (or inaccessible) to bacterial metabolism and potentially forming compounds capable of inhibiting growth.  
+
+
+=====Super optimal broth (SOB)=====
+2% [wt/vol] tryptone, 0.5% [wt/vol] yeast extract, 10 mM NaCl, 2.5 mM KCl, 10 mM MgCl<sub>2</sub>, 10 mM MgSO<sub>4</sub>
+
+To make ≈ 1 L, combine the following:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 1 L || [[#Super optimal broth without magnesium (SOB–Mg)| SOB–Mg]]
+|-
+| 10 mL || [[#1M MgCl2|1 M MgCl<sub>2</sub>]]
+|-
+| 10 mL || [[#1 M MgSO4|1 M MgSO<sub>4</sub>]]
+|-
+|}
+*SOB media is made by adding magnesium to SOB–Mg media.  Combine the components of this recipe after they have cooled to room temperature.  If you autoclave the SOB–Mg with magnesium, the magnesium will form an insoluble salt with phosphate contained in the yeast extract.
+
+
+=====Super optimal broth without magnesium (SOB–Mg)=====
+2% [wt/vol] tryptone, 0.5% [wt/vol] yeast extract, 10 mM NaCl, 2.5 mM KCl
+
+To make 1 L, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 20 g || tryptone
+|-
+| 5 g || yeast extract
+|-
+| 0.58 g || NaCl (FW = 58.44 g/mol)
+|-
+| 0.19 g || KCl (FW = 74.55 g/mol)
+|-
+| colspan="2"| ''q.s.'' to 1 L with water and filter sterilize or autoclave.
+|-
+|}
+*The pH should be ≈ 6.8 – 7.2, adjust with NaOH or HCl if necessary before autoclaving
+
+
+==Rich media for protein expression==
+====Terrific Broth (TB)====
+1.2% [wt/vol] tryptone, 2.4% [wt/vol] yeast extract, 0.4% [vol/vol] glycerol, 17 mM KH<sub>2</sub>PO<sub>4</sub>, 72 mM K<sub>2</sub>HPO<sub>4</sub>
+
+To make 1 L, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 12.0 g || tryptone
+|-
+| 24.0 g || yeast extract
+|-
+| 4 mL || glycerol (FW = 92.09 g/mol)
+|-
+| colspan="2"| ''q.s.'' to 900 mL with water and filter sterilize or autoclave.
+|-
+| 100 mL || [[#10× Potassium Phosphate Salts|10× Potassium Phosphate Salts]]
+|-
+|}
+*Do not autoclave the tryptone and yeast extract with the phosphate salts, as this will cause the phosphate to precipitate and the media will be buffered at the wrong pH.  Autoclave the phosphate salts and complex media components separately, and combine after they have cooled.
+*It is not recommended to use this media as is with plasmids requiring kanamycin selection, as the high phosphate concentrations in this media will confer natural kanamycin resistance to the ''E. coli''.  Instead, add half the amount of 10× Potassium Phosphate Salts (for a final of 0.5×) and use kanamycin at 100 μg/mL.
+
+
+=====10× Potassium Phosphate Salts=====
+170 mM KH<sub>2</sub>PO<sub>4</sub>, 720 mM K<sub>2</sub>HPO<sub>4</sub>
+
+To make 1 L, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 23.14 g || KH<sub>2</sub>PO<sub>4</sub> (FW = 136.09 g/mol)
+|-
+| 125.41 g || K<sub>2</sub>HPO<sub>4</sub> (FW = 174.18 g/mol)
+|-
+| colspan="2"| ''q.s.'' to 1 L with water and filter sterilized or autoclave.
+|-
+|}
+
+
+=====5× TB minus salts=====
+6% [wt/vol] tryptone, 12% [wt/vol] yeast extract, 2% [vol/vol] glycerol
+
+To make 1 L, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 60.0 g || tryptone
+|-
+| 120.0 g || yeast extract
+|-
+| 20 mL || glycerol (FW = 92.09 g/mol)
+|-
+| colspan="2"| ''q.s.'' to 1 L with water and autoclave.
+|-
+|}
+*To make TB, combine 200 mL of 5× TB minus salts with 100 mL of 10× Potassium Phosphate Salts, and ''q.s.'' to 1 L with sterile water
+
+
+====TBM====
+1.2% [wt/vol] tryptone, 2.4% [wt/vol] yeast extract, 0.5% [wt/vol] glycerol, 5 mM Na<sub>2</sub>HPO<sub>4</sub>, 25 mM KH<sub>2</sub>PO<sub>4</sub>, 50 mM NH<sub>4</sub>Cl, 5 mM Na<sub>2</sub>SO<sub>4</sub>, 2 mM MgSO<sub>4</sub>, 0.2× Studier Trace Metals
+
+To make ≈ 1 L, combine the following:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 1 L || [[#Almost TB|almost TB]]
+|-
+| 5 mL || 100% [wt/vol] glycerol
+|-
+| 20 mL || [[#50×M|50×M]]
+|-
+| 2 mL || [[#1 M  MgSO4|1 M  MgSO<sub>4</sub>]]
+|-
+| 200 μL || [[#1000× Studier Trace Metals|1000× Studier Trace Metals]], for a final concentration of 0.2×
+|-
+|}
+*Do not autoclave the almost TB with the downstream components, as this will cause a phosphate/magnesium/metal precipitate.  Filter sterilize the 50×M,  MgSO<sub>4</sub>, Studier Trace Metals, and glycerol separately.  Combine everything together after the autoclaved tryptone and yeast extract have cooled.
+**Glycerol can be added to the almost TB before autoclaving, but almost TB is a more versatile solution if the glycerol isn't added prior to autoclaving (i.e. almost TB can also be used to make TBM-5052).
+*When using this media with plasmids requiring kanamycin selection, use kanamycin at 100 μg/mL.
+
+
+=====Almost TB=====
+1.2% [wt/vol] tryptone, 2.4% [wt/vol] yeast extract
+
+To make 1 L, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 12.0 g || tryptone
+|-
+| 24.0 g || yeast extract
+|-
+| colspan="2"| ''q.s.'' to 1 L with water and filter sterilize or autoclave.
+|-
+|}
+
+
+=====50×M=====
+1.25 M Na<sub>2</sub>HPO<sub>4</sub>, 1.25 M KH<sub>2</sub>PO<sub>4</sub>, 2.5 M NH<sub>4</sub>Cl, 250 mM Na<sub>2</sub>SO<sub>4</sub>
+
+To make 1 L, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 177.45 g || Na<sub>2</sub>HPO<sub>4</sub> (FW = 141.96 g/mol)
+|-
+| 170.11 g || KH<sub>2</sub>PO<sub>4</sub> (FW = 136.09 g/mol)
+|-
+| 133.73 g || NH<sub>4</sub>Cl (FW = 53.49 g/mol)
+|-
+| 35.51 g || Na<sub>2</sub>SO<sub>4</sub> (FW = 142.04 g/mol)
+|-
+| colspan="2"| ''q.s.'' to 1 L with water and filter sterilize.
+|-
+|}
+*Allow each chemical to fully solubilize before adding the next. Must be added in the order listed. 
+*These chemicals will not go fully into solution at room temperature.  ''q.s.'' to  ≈ 80 – 90 % of the final volume and incubate with mixing on a heated stir plate set to ≈ 90 – 95°C until all solids have gone into solution.  Once the solution is homogeneous, you can transfer to a graduated cylinder and ''q.s.'' to the final volume.
+*The pH should be ≈ 6.7 following dilution to 1×
+*Occasionally, this solution will shower crystals.  To re-dissolve, microwave briefly (make sure to loosen the cap on the bottle first!)
+
+
+==Auto-induction media==
+====TBM-5052====
+1.2% [wt/vol] tryptone, 2.4% [wt/vol] yeast extract, 0.5% [wt/vol] glycerol, 0.05% [wt/vol] D-glucose, 0.2% [wt/vol] D-lactose, 25 mM Na<sub>2</sub>HPO<sub>4</sub>, 25 mM KH<sub>2</sub>PO<sub>4</sub>, 50 mM NH<sub>4</sub>Cl, 5 mM Na<sub>2</sub>SO<sub>4</sub>, 2 mM MgSO<sub>4</sub>, 10 μM FeCl<sub>3</sub>, 4 μM CaCl<sub>2</sub>, 2 μM MnCl<sub>2</sub>, 2 μM ZnSO<sub>4</sub>, 400 nM CoCl<sub>2</sub>, 400 nM NiCl<sub>2</sub>, 400 nM CuCl<sub>2</sub>, 400 nM Na<sub>2</sub>MoO<sub>4</sub>, 400 nM Na<sub>2</sub>SeO<sub>3</sub>, 400 nM H<sub>3</sub>BO<sub>3</sub>,  1 μM thiamine
+
+To make ≈ 1 L, combine the following:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 1 L || [[#Almost TB|almost TB]]
+|-
+| 20 mL || [[#50×M|50×M]]
+|-
+| 20 mL || [[#50×5052|50×5052]]
+|-
+| 2 mL || [[#1 M  MgSO4|1 M  MgSO<sub>4</sub>]]
+|-
+| 200 μL || [[#1000× Studier Trace Metals|1000× Studier Trace Metals]], for a final concentration of 0.2×
+|-
+| 100 μL || [[#10 mM thiamine|10 mM thiamine]]
+|-
+|}
+*When using this media with plasmids requiring kanamycin selection, use kanamycin at 100 μg/mL.
+
+
+=====50×5052=====
+25% [wt/vol] glycerol, 2.5% [wt/vol] glucose, 10% [wt/vol] α-lactose
+
+To make 1 L, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 250 g || glycerol (FW = 92.09 g/mol)
+|-
+| 25 g || D-glucose (FW = 180.16 g/mol)
+|-
+| 100 g || D-lactose monohydrate (FW = 360.31 g/mol)
+|-
+| colspan="2"| ''q.s.'' to 1 L with water and filter sterilize.
+|-
+|}
+*These chemicals will not go fully into solution at room temperature.  ''q.s.'' to  ≈ 80 – 90 % of the final volume and incubate with mixing on a heated stir plate set to ≈ 90 – 95°C until all solids have gone into solution.  Once the solution is homogeneous, you can transfer to a graduated cylinder and ''q.s.'' to the final volume.
+
+
+====MDA-5052====
+0.5% [wt/vol] glycerol, 0.05% [wt/vol] D-glucose, 0.2% [wt/vol] D-lactose, 0.1% [wt/vol] aspartate, 25 mM Na<sub>2</sub>HPO<sub>4</sub>, 25 mM KH<sub>2</sub>PO<sub>4</sub>, 50 mM NH<sub>4</sub>Cl, 5 mM Na<sub>2</sub>SO<sub>4</sub>, 2 mM MgSO<sub>4</sub>, 0.2× Studier Trace Metals, 200 μg/mL each 18 aa, 1 μM thiamine
+
+To make ≈ 1 L, combine the following:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  stock solution
+|-
+| 20 mL || [[#50×5052|50×5052]]
+|-
+| 20 mL || [[#50×M|50×M]]
+|-
+| 20 mL || [[#17 aa|17 aa]]
+|-
+| 8 mL || [[#25 mg/mL methionine|25 mg/mL methionine]]
+|-
+| 4 mL || [[#25% wt/vol aspartate|25% [wt/vol] aspartate]]
+|-
+| 2 mL || [[#1 M  MgSO4|1 M  MgSO<sub>4</sub>]]
+|-
+| 200 μL || [[#1000× Studier Trace Metals|1000× Studier Trace Metals]], for a final concentration of 0.2×
+|-
+| 100 μL || [[#10 mM thiamine|10 mM thiamine]]
+|-
+| colspan="2"| ''q.s.'' to 1 L with water and filter sterilize.
+|-
+|}
+*When using this media with plasmids requiring kanamycin selection, use kanamycin at 100 μg/mL.
+
+
+==Minimal media==
+====M9 + glucose====
+22mM KH2PO4, 22mM Na2HPO4, 85mM NaCl, 19mM NH4Cl, 2mM MgSO4, 0.4% Glucose [wt/vol]
+To make ≈ 500 mL, combine the following:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  stock solution
+|-
+| 425 mL || sterile water
+|-
+| 50 mL || [[#10x M9 salts|10x M9 salts]]
+|-
+| 0.5 mL || [[#1 M  MgSO4|1 M  MgSO<sub>4</sub>]]
+|-
+| 4.375 mL || [[#40% wt/vol D-glucose|40% [wt/vol] D-glucose]]
+|-
+| colspan="2"| ''q.s.'' to 0.5 L with water and filter sterilize
+|-
+|}
+
+
+=====10X M9 salts=====
+To make 1L, combine the following:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  Chemical
+|-
+| 600 mL || sterile water
+|-
+| 30 g || Potassium Phosphate (KH2PO4) 
+|-
+| 128 g || Sodium Phosphate (Na2HPO4) 
+|-
+| 5 g || Sodium chloride (NaCl) 
+|-
+| 10 g || Ammonium Chloride (NH4Cl)
+|-
+q.s. to 1L with MilliQ water. Filter sterilize.
+|}
+
+
+====MDAG-135====
+0.1% [wt/vol] aspartate, 0.35% [wt/vol] D-glucose, 25 mM Na<sub>2</sub>HPO<sub>4</sub>, 25 mM KH<sub>2</sub>PO<sub>4</sub>, 50 mM NH<sub>4</sub>Cl, 5 mM Na<sub>2</sub>SO<sub>4</sub>, 2 mM MgSO<sub>4</sub>, 0.2× Studier Trace Metals, 200 μg/mL each 18 aa, 1 μM thiamine
+
+To make ≈ 500 mL, combine the following:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  stock solution
+|-
+| 470 mL || sterile water
+|-
+| 1 mL || [[#1 M  MgSO4|1 M  MgSO<sub>4</sub>]]
+|-
+| 100 μL || [[#1000× Studier Trace Metals|1000× Studier Trace Metals]], for a final concentration of 0.2×
+|-
+| 4.375 mL || [[#40% wt/vol D-glucose|40% [wt/vol] D-glucose]]
+|-
+| 2 mL || [[#25% wt/vol aspartate|25% [wt/vol] aspartate]]
+|-
+| 10 mL || [[#50×M|50×M]]
+|-
+| 10 mL || [[#17 aa|17 aa]]
+|-
+| 4 mL || [[#25 mg/mL methionine|25 mg/mL methionine]]
+|-
+| 50 μL || [[#10 mM thiamine|10 mM thiamine]]
+|-
+|}
+*Corning MEM essential and nonessential amino acids can be substituted for the 17aa mix and methionine.  Add 10mL of each. 
+*When using this media with plasmids requiring kanamycin selection, use kanamycin at 100 μg/mL.
+
+
+====MDAG-11 agar====
+0.1% [wt/vol] aspartate, 0.1% [wt/vol] D-glucose, 25 mM Na<sub>2</sub>HPO<sub>4</sub>, 25 mM KH<sub>2</sub>PO<sub>4</sub>, 50 mM NH<sub>4</sub>Cl, 5 mM Na<sub>2</sub>SO<sub>4</sub>, 2 mM MgSO<sub>4</sub>, 0.2× Studier Trace Metals, 200 μg/mL each 18 aa, 1 μM thiamine, 1% [wt/vol] agar
+
+To make ≈ 0.5 L, combine the following:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 5 g || agar
+|-
+| 475 mL || water
+|-
+| colspan="2"| autoclave and allow to cool to ≈ 50°C
+|-
+| 1 mL || [[#1 M  MgSO4|1 M  MgSO<sub>4</sub>]]
+|-
+| 100 μL || [[#1000× Studier Trace Metals|1000× Studier Trace Metals]], for a final concentration of 0.2×
+|-
+| 1.25 mL || [[#40% wt/vol D-glucose|40% [wt/vol] D-glucose]]
+|-
+| 2 mL || [[#25% wt/vol aspartate|25% [wt/vol] aspartate]]
+|-
+| 10 mL || [[#50×M|50×M]]
+|-
+| 10 mL || [[#17 aa|17 aa]]
+|-
+| 4 mL || [[#25 mg/mL methionine|25 mg/mL methionine]]
+|-
+| 50 μL || [[#10 mM thiamine|10 mM thiamine]]
+|-
+|}
+*Combine the agar and water in a 2 L non-baffled erlenmeyer flask.  The agar will not dissolve until autoclaved, and don't forget to add a stir bar before autoclaving.  If you try to autoclave a larger volume, the pressure can shoot the foil from the top of the flask, and the liquid media will certainly boil over and out of the flask.
+*After taking the media out of the autoclave, place the flask on a magnetic stir plate and stir very slowly, being careful not to introduce bubbles.  Once the media has cooled to ≈ 50°C, add the rest of the media components, antibiotic(s), and pour the media into petri dishes.
+*This recipe should yield about 15 – 20 plates.
+*When using this media with plasmids requiring kanamycin selection, use kanamycin at 100 μg/mL.
+*When using this media with plasmids requiring chloramphenicol selection, use chloramphenicol at 30 μg/mL.
+*Corning MEM essential and nonessential amino acids can be substituted for the 17aa mix and methionine.  Add 10mL of each essential and nonessential solutions.
+
+==Auto-induction minimal media for isotope labeling==
+====<sup>15</sup>N_M-5052====
+0.5% [wt/vol] glycerol, 0.05% [wt/vol] D-glucose, 0.2% [wt/vol] D-lactose, 25 mM Na<sub>2</sub>HPO<sub>4</sub>, 25 mM KH<sub>2</sub>PO<sub>4</sub>, 50 mM <sup>15</sup>NH<sub>4</sub>Cl, 5 mM Na<sub>2</sub>SO<sub>4</sub>, 2 mM MgSO<sub>4</sub>, 0.2× Studier Trace Metals, 1 μM thiamine
+
+To make ≈ 0.5 L, combine the following:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 480 mL || sterile water
+|-
+| 10 mL || [[#50×15N_M|50×<sup>15</sup>N_M]]
+|-
+| 10 mL || [[#50×5052|50×5052]]
+|-
+| 1 mL || [[#1 M  MgSO4|1 M  MgSO<sub>4</sub>]]
+|-
+| 100 μL || [[#1000× Studier Trace Metals|1000× Studier Trace Metals]], for a final concentration of 0.2×
+|-
+| 50 μL || [[#10 mM thiamine|10 mM thiamine]]
+|-
+|}
+*When using this media with plasmids requiring kanamycin selection, use kanamycin at 100 μg/mL.
+
+
+=====50×<sup>15</sup>N_M=====
+1.25 M Na<sub>2</sub>HPO<sub>4</sub>, 1.25 M KH<sub>2</sub>PO<sub>4</sub>, 2.5 M <sup>15</sup>NH<sub>4</sub>Cl, 250 mM Na<sub>2</sub>SO<sub>4</sub>
+
+To make 1 L, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 177.45 g || Na<sub>2</sub>HPO<sub>4</sub> (FW = 141.96 g/mol)
+|-
+| 170.11 g || KH<sub>2</sub>PO<sub>4</sub> (FW = 136.09 g/mol)
+|-
+| 136.23 g || <sup>15</sup>NH<sub>4</sub>Cl (FW = 54.49 g/mol)
+|-
+| 35.51 g || Na<sub>2</sub>SO<sub>4</sub> (FW = 142.04 g/mol)
+|-
+| colspan="2"| ''q.s.'' to 1 L with water and filter sterilize.
+|-
+|}
+*Allow each chemical to fully solubilize before adding the next. Must be added in the order listed. 
+*These chemicals will not go fully into solution at room temperature.  ''q.s.'' to  ≈ 80 – 90 % of the final volume and incubate with mixing on a heated stir plate set to ≈ 90 – 95°C until all solids have gone into solution.  Once the solution is homogeneous, you can transfer to a graduated cylinder and ''q.s.'' to the final volume.
+*The pH should be ≈ 6.7 following dilution to 1×
+*Occasionally, this solution will shower crystals.  To re-dissolve, microwave briefly (make sure to loosen the cap on the bottle first!)
+
+
+====<sup>15</sup>N_M-<sup>13</sup>C_G====
+0.35% [wt/vol] <sup>13</sup>C-D-glucose, 25 mM Na<sub>2</sub>HPO<sub>4</sub>, 25 mM KH<sub>2</sub>PO<sub>4</sub>, 50 mM <sup>15</sup>NH<sub>4</sub>Cl, 5 mM Na<sub>2</sub>SO<sub>4</sub>, 2 mM MgSO<sub>4</sub>, 0.2× Studier Trace Metals, 1 μM thiamine
+
+To make ≈ 0.5 L, combine the following:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 480 mL || sterile water
+|-
+| 10 mL || [[#50×15N_M|50×<sup>15</sup>N_M]]
+|-
+| 1.75 g || [[#13C_50×5051|<sup>13</sup>C D-glucose]]
+|-
+| 1 mL || [[#1 M MgSO4|1 M  MgSO<sub>4</sub>]]
+|-
+| 100 μL || [[#1000× Studier Trace Metals|1000× Studier Trace Metals]], for a final concentration of 0.2×
+|-
+| 50 μL || [[#10 mM thiamine|10 mM thiamine]]
+|-
+|}
+*When using this media with plasmids requiring kanamycin selection, use kanamycin at 100 μg/mL.
+*This replaces the inducer sugar lactose with galactose, which is not metabolizable by BL21 ''E. coli''.  <sup>13</sup>C glucose and glycerol are commercially available, while <sup>13</sup>C lactose is not.  This means that the inducer sugar cannot be metabolized, preventing incorporation of unlabeled carbon into your heterologously expressed protein.
+
+
+
+
+
+==Miscellaneous media components==
+===Stock solutions for carbon sources===
+====40% wt/vol D-glucose====
+To make 250 mL, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 100 g || D-glucose (FW = 180.16 g/mol)
+|-
+| colspan="2"| ''q.s.'' to 250 mL with water and filter sterilize
+|-
+|}
+
+
+====25% wt/vol aspartate====
+To make 250 mL, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 62.5 g || L-aspartic acid (FW = 133.10 g/mol)
+|-
+| 20 g || NaOH (FW = 40.00 g/mol)
+|-
+| colspan="2"| ''q.s.'' to 250 mL with water and filter sterilize
+|-
+|}
+
+
+====25 mg/mL methionine====
+To make 100 mL, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+|  2.5 g || L-methionine (FW = 149.21 g/mol)
+|-
+| colspan="2"| ''q.s.'' to 100 mL with water and filter sterilize.
+|-
+|}
+*Store this solution at 4°C.
+
+
+====17 aa====
+10 mg/mL L-glutamate, 10 mg/mL L-aspartate, 10 mg/mL L-lysine, 10 mg/mL L-arginine, 10 mg/mL L-histidine, 10 mg/mL L-alanine, 10 mg/mL L-proline, 10 mg/mL glycine, 10 mg/mL L-threonine, 10 mg/mL L-serine, 10 mg/mL L-glutamine, 10 mg/mL L-asparagine, 10 mg/mL L-valine, 10 mg/mL L-leucine, 10 mg/mL L-isoleucine, 10 mg/mL L-phenylalanine, 10 mg/mL L-tryptophan
+
+To make 1 L, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+|  10 g || L-glutamate·Na (FW = 169.11 g/mol), or 8.7 g of L-glutamic acid (FW = 147.13 g/mol)
+|-
+|  10 g || L-aspartate (FW = 133.10 g/mol)
+|-
+|  10 g || L-lysine·HCl (FW = 182.65 g/mol)
+|-
+|  10 g || L-arginine·HCl (FW = 210.66 g/mol)
+|-
+|  10 g || L-histidine·HCl·H<sub>2</sub>O (FW = 209.63 g/mol), or 7.4 g of L-histidine (FW = 155.15 g/mol)
+|-
+|  10 g || L-alanine (FW = 89.09 g/mol)
+|-
+|  10 g || L-proline (FW = 115.13 g/mol)
+|-
+|  10 g || glycine (FW = 75.07 g/mol)
+|-
+|  10 g || L-threonine (FW = 119.12 g/mol)
+|-
+|  10 g || L-serine (FW = 105.09 g/mol)
+|-
+|  10 g || L-glutamine (FW = 146.14 g/mol)
+|-
+|  10 g || L-asparagine·H<sub>2</sub>O (FW = 150.13 g/mol), or 8.8 g of L-asparagine (FW = 132.12 g/mol)
+|-
+|  10 g || L-valine (FW = 117.15 g/mol)
+|-
+|  10 g || L-leucine (FW = 131.17 g/mol)
+|-
+|  10 g || L-isoleucine (FW = 131.17 g/mol)
+|-
+|  10 g || L-phenylalanine (FW = 165.19 g/mol)
+|-
+|  10 g || L-tryptophan (FW = 204.23 g/mol)
+|-
+| colspan="2"| ''q.s.'' to 1 L with water and filter sterilize.
+|-
+|}
+*These chemicals will not go fully into solution at room temperature.  Start with ≈ 80% of the final volume in a glass beaker and place on a heated stir plate set to ≈ 90°C.  Add the amino acid powders to the water in the order given above, and allow each amino acid to fully dissolve before adding the next.  Failure to do this may result in insoluble aggregates that refuse to go into solution (even with days of heating).  Once the solution is homogeneous, you can transfer it to a graduated cylinder and ''q.s.'' to the final volume.
+*Store this solution at 4°C
+
+
+===Stock solutions for misc. nutrients===
+====10 mM thiamine====
+10 mM in H<sub>2</sub>O
+
+To make 100 mL, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 337.3 mg || thiamine HCl (FW = 337.27 g/mol)
+|-
+| colspan="2"| ''q.s.'' to 100 mL with water and filter sterilize
+|-
+|}
+*Store this solution at 4°C
+
+
+====1 M CaCl<sub>2</sub>====
+1 M in H<sub>2</sub>O
+
+To make 50 mL, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+| 7.35 g || CaCl<sub>2</sub>·2H<sub>2</sub>O (FW = 147.01 g/mol)
+|-
+| colspan="2"| ''q.s.'' to 50 mL with water and filter sterilize
+|-
+|}
+
+
+====1 M MgSO<sub>4</sub>====
+1 M in H<sub>2</sub>O
+
+To make 250 mL, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+|  61.62 g || MgSO<sub>4</sub>·7H<sub>2</sub>O (FW = 246.47 g/mol)
+|-
+| colspan="2"| ''q.s.'' to 250 mL with water and filter sterilize
+|-
+|}
+
+
+====1 M MgCl<sub>2</sub>====
+1 M in H<sub>2</sub>O
+
+To make 250 mL, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+|  50.83 g || MgClsub>2</sub>·6H<sub>2</sub>O (FW = 203.30 g/mol)
+|-
+| colspan="2"| ''q.s.'' to 250 mL with water and filter sterilize
+|-
+|}
+
+
+===Studier Trace Metals===
+====1000× Studier Trace Metals====
+50 mM FeCl<sub>3</sub>, 20 mM CaCl<sub>2</sub>, 10 mM MnCl<sub>2</sub>, 10 mM ZnSO<sub>4</sub>, 2 mM CoCl<sub>2</sub>, 2 mM NiCl<sub>2</sub>, 2 mM CuCl<sub>2</sub>, 2 mM Na<sub>2</sub>MoO<sub>4</sub>, 2 mM Na<sub>2</sub>SeO<sub>3</sub>, 2 mM H<sub>3</sub>BO<sub>3</sub>
+
+To make 100 mL, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  stock solution
+|-
+| 36 mL || H<sub>2</sub>O
+|-
+| 50 mL || [[#100 mM FeCl3|100 mM FeCl<sub>3</sub>]]
+|-
+| 2 mL  || [[Buffers and solutions#1 M CaCl2|1 M CaCl<sub>2</sub>]]
+|-
+| 2 mL  || [[#100 mM CuCl2|100 mM CuCl<sub>2</sub>]]
+|-
+| 2 mL  || [[#100 mM Na2Mo4|100 mM Na<sub>2</sub>MoO<sub>4</sub>]]
+|-
+| 2 mL  || [[#100 mM Na2SeO3|100 mM Na<sub>2</sub>SeO<sub>3</sub>]]
+|-
+| 2 mL  || [[#100 mM H3BO3|100 mM H<sub>3</sub>BO<sub>3</sub>]]
+|-
+| 1 mL  || [[#1 M MnCl2|1 M MnCl<sub>2</sub>]]
+|-
+| 1 mL  || [[#1 M ZnSO4|1 M ZnSO<sub>4</sub>]]
+|-
+| 1 mL  || [[#200 mM CoCl2|200 mM CoCl<sub>2</sub>]]
+|-
+| 1 mL  || [[#200 mM NiCl2|200 mM NiCl<sub>2</sub>]]
+|-
+|}
+Filter sterilize (do not autoclave)
+
+
+====1 M MnCl<sub>2</sub>====
+To make 500 mL, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+|  98.96 g || MnCl<sub>2</sub>·4H<sub>2</sub>O (FW = 197.91 g/mol) 
+|-
+| colspan="2"| ''q.s.'' to 500 mL with water.
+|-
+|}
+		
+
+====1 M ZnSO<sub>4</sub>====
+To make 500 mL, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+|  143.78 g || ZnSO<sub>4</sub>·7H<sub>2</sub>O (FW = 287.56 g/mol) 
+|-
+| colspan="2"| ''q.s.'' to 500 mL with water.
+|-
+|}
+
+
+====200 mM CoCl<sub>2</sub>====
+To make 500 mL, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+|  23.79 g || CoCl<sub>2</sub>·6H<sub>2</sub>O (FW = 237.93 g/mol) 
+|-
+| colspan="2"| ''q.s.'' to 500 mL with water.
+|-
+|}
+
+
+====200 mM NiCl<sub>2</sub>====
+To make 500 mL, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+|  23.77 g || NiCl<sub>2</sub>·6H<sub>2</sub>O (FW = 237.69 g/mol) 
+|-
+| colspan="2"| ''q.s.'' to 500 mL with water.
+|-
+|}
+
+
+====100 mM H<sub>3</sub>BO<sub>3</sub>====
+To make 500 mL, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+|  3.09 g || H<sub>3</sub>BO<sub>3</sub> (FW = 61.83 g/mol) 
+|-
+| colspan="2"| ''q.s.'' to 500 mL with water.
+|-
+|}
+
+
+====100 mM CuCl<sub>2</sub>====
+To make 500 mL, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+|  8.52 g || CuCl<sub>2</sub>·H<sub>2</sub>O (FW = 170.48 g/mol) 
+|-
+| colspan="2"| ''q.s.'' to 500 mL with water.
+|-
+|}
+
+
+====100 mM FeCl<sub>3</sub>====
+To make 500 mL, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+|  8.11 g || FeCl<sub>3</sub> (FW = 162.20 g/mol) 
+|-
+| colspan="2"| [http://en.wikipedia.org/wiki/Quantum_satis ''q.s.''] to 500 mL with water.
+|-
+|}
+
+
+====100 mM Na<sub>2</sub>MoO<sub>4</sub>====
+To make 500 mL, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+|  12.10 g || Na<sub>2</sub>MoO<sub>4</sub>·2H<sub>2</sub>O (FW = 241.95 g/mol) 
+|-
+| colspan="2"| ''q.s.'' to 500 mL with water.
+|-
+|}		
+	
+
+====100 mM Na<sub>2</sub>SeO<sub>3</sub>====
+To make 500 mL, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  chemical
+|-
+|  13.15 g || Na<sub>2</sub>SeO<sub>3</sub>·5H<sub>2</sub>O (FW = 263.01 g/mol) 
+|-
+| colspan="2"| ''q.s.'' to 500 mL with water.
+|-
+|}

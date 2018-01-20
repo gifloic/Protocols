@@ -1,0 +1,49 @@
+=Introduction=
+Production of native proteins containing one or more disulfide bonds can be a non-trivial process.  Recombinant proteins must be secreted out of the cytoplasmic fraction.  I recommend using a secretion vector, such as pET22 or pCDB180.  When using pCDB180, the method takes advantage of the native ''Escherichia coli'' protein OsmY to act as a [http://www.ncbi.nlm.nih.gov/pubmed/18727129 secretion shuttle], and the ''Saccharomyces cerevisiae'' protein [http://www.ncbi.nlm.nih.gov/pubmed/16322573 Smt3] as a chaperone and cleavage target.  The protein fusion partner also contains a deca-His tag for purification by immobilized metal affinity chromatography (IMAC).  Abundant expression is required for extracellular localization of a heterologously expressed secreted protein, and periplasmic extraction can enable you to obtain protein in cases of weak or moderate expression.
+
+=Extraction protocol=
+===Express the protein===
+However you like, I recommend using KAN as the antibiotic in your expression system, and 37°C expression temp (colder temps don't allow the sec machinery to function efficiently, and your yield will take a large hit).  I like [[Studier Auto-induction|auto induction]].
+
+===Harvest the culture===
+Transfer the culture to a centrifuge bottle and pellet the bacteria from the media by centrifugation.  Spin the cultures for 15 min at 4,500 RCF at 4°C.
+
+===Primary periplasmic extraction===
+Re-suspended the pellet in [[#Periplasmic Lysis Buffer |Periplasmic Lysis Buffer]] corresponding to a twentieth of the original cultural volume.  For example, 1 L of bacterial culture would be re-suspended in 50 mL of Periplasmic Lysis Buffer.  Incubate the suspension at room temperature for ≥ 1 hr and ≤ 30 hr with gentle stirring or nutation.
+*Incubation with periplasmic lysis buffer can also be performed at 4°C. This could be especially important for longer extraction times and/or proteins that aren't incredibly stable.
+
+===Harvest primary extract===
+Pellet insoluble material by centrifugation at 30,000 RCF for 20 min.  Filter sterilize the supernatant and save this as the primary periplasmic extract.
+
+===Secondary periplasmic extraction===
+Re-suspend the pellet in the same volume of Periplasmic Lysis Buffer as before and suspension at room temperature for ≥ 1 hr and ≤ 30 hr with gentle stirring or nutation.
+*Incubation with periplasmic lysis buffer can also be performed at 4°C. This could be especially important for longer extraction times and/or proteins that aren't incredibly stable.
+
+===Harvest secondary extract===
+Pellet insoluble material by centrifugation at 30,000 RCF for 20 min.  Filter sterilize the supernatant and save this as the secondary periplasmic extract.  This can be combined with the primary extract.  If desired, a third extraction can be performed, but greater than 90% of material should be harvested by two extraction steps.
+
+===Perform IMAC===
+Run IMAC as normal, except I recommend using about twice as much Ni-NTA resin as you normally would to account for Ni loss due to EDTA in the Periplasmic Lysis Buffer.
+
+
+=Recipes=
+====Periplasmic Lysis Buffer====
+20% [wt/vol] sucrose, 30 mM Tris-HCl pH 8.0, 1 mM EDTA pH 8.0, 1 mg/mL lysozyme
+
+To make 1 L, add:
+{| class="wikitable" border="1"
+|-
+!  quantity
+!  stock solution
+|-
+| 200 g || sucrose
+|-
+| 30 mL || [[Buffers_and_solutions#1 M Tris-HCl pH 8.0|1 M Tris-HCl pH 8.0]]
+|-
+| 2 mL || [[Buffers_and_solutions#0.5 M EDTA|0.5 M EDTA]]
+|-
+| 1 g || lysozyme
+|-
+| colspan="2"| [http://en.wikipedia.org/wiki/Quantum_satis ''q.s.''] to 1 L with water.  After addition of lysozyme, store at 4°C for up to 2 weeks 
+|-
+|}

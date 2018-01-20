@@ -1,0 +1,92 @@
+=Introduction=
+A cheap and fast method for generating synthetic genes from single stranded DNA oligos.
+
+
+=Design the primers=
+Design primers using [http://helixweb.nih.gov/dnaworks/ DNAWorks], and use the default annealing temperature of 62°C.  We will use a slightly higher annealing temperature during assembly reactions to increase fidelity, but keep the temperature at 62°C for oligo design.
+
+
+=Assemble the gene=
+You will use 2 different PCR reactions to assemble the gene.  The first PCR will do the actual assembly, and the second will amplify the gene so it can be cloned into a vector.  I recommend you use [https://www.neb.com/protocols/1/01/01/pcr-protocol-m0530 Phusion polymerase] from NEB.
+
+This polymerase can also be purchased as a 2X master mix, requiring only the addition of your outer and inner primers.
+
+For both PCR reactions, use a 20 μL final volume and the following program:
+
+{| class="wikitable" border="1"
+|-
+!  Step
+!  Temperature
+!  Time
+|-
+| Step 1 || 98°C || 10 min
+|-
+| Step 2 || 98°C || 30 sec
+|-
+| Step 3 || 64°C || 30 sec
+|-
+| Step 4 || 72°C || 30 sec/kBP
+|-
+| Step 5 || colspan="2"| go to Step 2 an additional 29 times
+|-
+| Step 6 || 72°C || 10 min
+|-
+| Step 7 || 4°C || 30 min
+|-
+|}
+This protocol also runs using 2X GoTaq green master mix with an annealing temperature of 56ºC.
+For reasons of volume the oligos were used at a concentration of 20uM. Final concentrations of the outer oligos was 2500nM and inner oligos 500nM.
+
+===First assembly PCR===
+The first and last primer of the gene should be used at final concentration of 2.5 μM, while all other primers are used at final concentration of 0.25 μM.  If you have a long gene that will require more volume than you have available in the PCR reaction, consider making 100 μM stocks of the primers and combining them separately to give yourself more volume to work with.
+
+I recommend making a master mix of all PCR reagents (minus the primers) to aliquot out if you're assembling multiple genes at once, and each PCR reaction should contain the following:
+{| class="wikitable" border="1"
+|- 
+!  Volume
+!  Reagent
+|-
+| [http://en.wikipedia.org/wiki/Quantum_satis ''q.s.''] to 20 μL || H<sub>2</sub>O
+|-
+| 4 μL || 5X Phusion HF buffer
+|-
+| 0.4 μL || 10 mM dNTPs
+|-
+| 0.6 μL || DMSO
+|-
+| 0.2 μL || Phusion DNA Polymerase
+|-
+| colspan="2"| add outer primers to 2.5 μM, inner primers to 0.25 μM
+|-
+|}
+
+
+===Second assembly PCR===
+For the second PCR reaction, use 1 μL of the first PCR reaction as the template DNA.  Use just two primers in this reaction, the first and last primer of the gene, at a final concentration of 0.5 μM each.
+
+I recommend making a master mix of all PCR (reagents minus the primers and template DNA from the [[#First assembly PCR|1<sup>st</sup> PCR]] reaction) to aliquot out if you're assembling multiple genes at once, and each PCR reaction should contain the following:
+{| class="wikitable" border="1"
+|-
+!  Volume
+!  Reagent
+|-
+| 11.8 μL || H<sub>2</sub>O
+|-
+| 4 μL || 5X Phusion HF buffer
+|-
+| 0.4 μL || 10 mM dNTPs
+|-
+| 1 μL || 10 μM first primer
+|-
+| 1 μL || 10 μM last primer
+|-
+| 1 μL || of the [[#First assembly PCR|1<sup>st</sup> PCR]] reaction
+|-
+| 0.6 μL || DMSO
+|-
+| 0.2 μL || Phusion DNA Polymerase
+|-
+|}
+
+
+Although not strictly required for success, you will often be able to see a clear band corresponding to your gene after running the product of this PCR reaction out on an agarose gel.  The fragment can then be cloned into your vector of choice; I recommend using [[Gibson assembly]], and DNA fragments assembled by this method can be used directly (no cleanup is necessary).  The exact amount needed may vary, but I've generally had good luck by simply using ~ 2 μL of the second assembly PCR in a Gibson assembly.
